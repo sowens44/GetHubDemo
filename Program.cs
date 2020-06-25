@@ -6,7 +6,7 @@ namespace GetHubDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World GitHub Demo!");
+            Console.WriteLine("Hello World GitHub Demo Second Time!");
         }
     }
 }
